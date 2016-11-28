@@ -68,7 +68,7 @@ if (src && cap == 3) {
 ## data-rjs 和 devicePixelRatio 对实际图片加载的控制
 
 | data-rjs | devicePixelRatio | 加载图片 |
-|---|
+| --- | --- | --- |
 | 2 | 2 | 2x |
 | 2 | 3 | 2x |
 | 3 | 2 | 2x |
