@@ -2,6 +2,8 @@
 
 在Vue项目中同时使用 [vue-lazyload](https://github.com/hilongjw/vue-lazyload) 和 [retinajs](https://github.com/imulus/retinajs)
 
+> 此项目已废弃。关于lazyload与retina的功能整合详见 [vue-image-slider](https://github.com/mengchen129/vue-image-slider) , 对 [vue-lazyload.js](https://github.com/mengchen129/vue-image-slider/blob/master/src/components/vue-lazyload.js) 进行了修改, 支持高清图的展示
+
 ## 安装
 ```
 npm install vue-lazyload --save
